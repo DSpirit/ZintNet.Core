@@ -1,2 +1,3 @@
 # ZintNet.Core
-ZintNet条码类库.net core版
+ZintNet.net core
+
